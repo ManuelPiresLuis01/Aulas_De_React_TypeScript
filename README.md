@@ -1,4 +1,4 @@
-````markdown
+
 # 🚀 Curso de React + TypeScript
 
 Bem-vindos ao repositório oficial da turma de **React + TypeScript**!  
