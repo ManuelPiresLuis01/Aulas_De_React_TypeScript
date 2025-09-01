@@ -38,13 +38,15 @@ Para acompanhar as aulas, você precisará ter instalado:
 ### 🔧 Configuração inicial
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU-USUARIO/curso-react-typescript.git
-
+git clone https://github.com/ManuelPiresLuis01/Aulas_De_React_TypeScript
 # Acesse a pasta
-cd curso-react-typescript
+cd Aulas_De_React_TypeScript
 
 # Instale as dependências
 npm install
+
+# Roda o projecto
+npm run dev
 ````
 
 ---
@@ -73,6 +75,11 @@ Durante o curso, os alunos poderão abrir **pull requests** com suas soluções 
 
 Para dúvidas ou suporte, entre em contato com o instrutor:
 **Manuel Pires Luis**
+- 💼 [LinkedIn](https://www.linkedin.com/in/manuel-pires-l-5275852aa/)  
+- 📧 Email: manuelpiresluis@gmail.com  
+- 📱 WhatsApp: [929 004 469](https://wa.me/244929004469)
+
+
 
 ---
 
